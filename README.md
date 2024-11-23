@@ -80,13 +80,13 @@ Rancher Desktop 설치 후 설정 패널에서 `Cotainer Engine` > `dockerd (mob
 
 3. 쉘 스크립트 실행
 - 윈도우 OS
-  - 도커 시작: [scripts] > [windows] > start_server.bat 실행
-  - 도커 종료: [scripts] > [windows] > end_server.bat 실행
-  - 백엔드 리빌드: [scripts] > [windows] > backend_rebuild.bat 실행
+  - 도커 시작: `[scripts]` > `[windows]` > `start_server.bat` 실행
+  - 도커 종료: `[scripts]` > `[windows]` > `end_server.bat` 실행
+  - 백엔드 리빌드: `[scripts]` > `[windows]` > `backend_rebuild.bat` 실행
 - 리눅스 OS
-  - 도커 시작: [scripts] > [linux] > start_server.sh 실행
-  - 도커 종료: [scripts] > [linux] > end_server.sh 실행
-  - 백엔드 리빌드: [scripts] > [linux] > backend_rebuild.sh 실행
+  - 도커 시작: `[scripts]` > `[linux]` > `start_server.sh` 실행
+  - 도커 종료: `[scripts]` > `[linux]` > `end_server.sh` 실행
+  - 백엔드 리빌드: `[scripts]` > `[linux]` > `backend_rebuild.sh` 실행
 
 4. 웹 브라우저 접속
  
